@@ -1,6 +1,6 @@
-# React + Vite
+# Tailwind Login Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project I create simple Login page, using Tailwind CSS.
 
 Currently, two official plugins are available:
 
